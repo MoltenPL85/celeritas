@@ -9,7 +9,7 @@ import (
 
 	"github.com/minio/minio-go/v7"
 	"github.com/minio/minio-go/v7/pkg/credentials"
-	"github.com/moltenpl85/celeritas/filesystems"
+	"github.com/moltenpl85/celeritas/v2/filesystems"
 )
 
 type Minio struct {

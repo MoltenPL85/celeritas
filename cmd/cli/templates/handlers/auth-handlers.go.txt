@@ -20,8 +20,8 @@ import (
 	"github.com/markbates/goth/gothic"
 	"github.com/markbates/goth/providers/github"
 	"github.com/markbates/goth/providers/google"
-	"github.com/moltenpl85/celeritas/mailer"
-	"github.com/moltenpl85/celeritas/urlsigner"
+	"github.com/moltenpl85/celeritas/v2/mailer"
+	"github.com/moltenpl85/celeritas/v2/urlsigner"
 )
 
 func (h *Handlers) UserLogin(w http.ResponseWriter, r *http.Request) {

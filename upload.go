@@ -9,7 +9,7 @@ import (
 	"path"
 
 	"github.com/gabriel-vasile/mimetype"
-	"github.com/moltenpl85/celeritas/filesystems"
+	"github.com/moltenpl85/celeritas/v2/filesystems"
 )
 
 func (c *Celeritas) UploadFile(r *http.Request, destination, field string, fs filesystems.FS) error {

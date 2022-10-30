@@ -13,7 +13,7 @@ import (
 	"github.com/aws/aws-sdk-go/aws/session"
 	"github.com/aws/aws-sdk-go/service/s3"
 	"github.com/aws/aws-sdk-go/service/s3/s3manager"
-	"github.com/moltenpl85/celeritas/filesystems"
+	"github.com/moltenpl85/celeritas/v2/filesystems"
 )
 
 type S3 struct {

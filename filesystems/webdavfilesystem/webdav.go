@@ -7,7 +7,7 @@ import (
 	"path"
 	"strings"
 
-	"github.com/moltenpl85/celeritas/filesystems"
+	"github.com/moltenpl85/celeritas/v2/filesystems"
 	"github.com/studio-b12/gowebdav"
 )
 

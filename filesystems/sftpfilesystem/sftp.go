@@ -8,7 +8,7 @@ import (
 	"path"
 	"strings"
 
-	"github.com/moltenpl85/celeritas/filesystems"
+	"github.com/moltenpl85/celeritas/v2/filesystems"
 	"github.com/pkg/sftp"
 	"golang.org/x/crypto/ssh"
 )

@@ -1,4 +1,4 @@
-module github.com/moltenpl85/celeritas
+module github.com/moltenpl85/celeritas/v2
 
 go 1.19
 
