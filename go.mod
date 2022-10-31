@@ -15,6 +15,7 @@ require (
 	github.com/gabriel-vasile/mimetype v1.4.1
 	github.com/go-chi/chi/v5 v5.0.7
 	github.com/go-git/go-git/v5 v5.4.2
+	github.com/go-rod/rod v0.112.0
 	github.com/gobuffalo/pop v4.13.1+incompatible
 	github.com/gomodule/redigo v1.8.9
 	github.com/iancoleman/strcase v0.2.0
@@ -57,7 +58,6 @@ require (
 	github.com/fatih/structs v1.1.0 // indirect
 	github.com/go-git/gcfg v1.5.0 // indirect
 	github.com/go-git/go-billy/v5 v5.3.1 // indirect
-	github.com/go-rod/rod v0.112.0 // indirect
 	github.com/go-test/deep v1.0.8 // indirect
 	github.com/gobuffalo/envy v1.7.0 // indirect
 	github.com/gobuffalo/fizz v1.14.4 // indirect
